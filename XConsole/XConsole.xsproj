@@ -94,6 +94,11 @@
       <Project>{3fc730fa-af2b-486b-89eb-d70d425535c8}</Project>
       <Private>True</Private>
     </ProjectReference>
+    <ProjectReference Include="..\GreetLib\GreetLib.xsproj">
+      <Name>GreetLib</Name>
+      <Project>{d8d0390c-7f1c-4bfe-870b-c608d8d1bdce}</Project>
+      <Private>True</Private>
+    </ProjectReference>
     <ProjectReference Include="..\XLib\XLib.xsproj">
       <Name>XLib</Name>
       <Project>{ac186e3b-9e60-4944-b523-a8bd9e2b6b5f}</Project>
